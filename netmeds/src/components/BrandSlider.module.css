@@ -1,0 +1,16 @@
+.volini {
+    display: flex;
+    height: 200px;
+    width: 150px;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.imgs {
+    height: 200px;
+    width: 420px;
+    border-radius: 50px;
+
+}
