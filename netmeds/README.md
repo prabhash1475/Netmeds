@@ -1,73 +1,19 @@
-# Getting Started with Create React App
+# Clone of Netmeds.com
+This was our project for Unit-4 Construct week at Masai Shcool.
+## Tech Stack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- HTML 5
+- CSS 3
+- Javascript
+- React
+-Bootstrap
+## Netlify:-https://hilarious-cannoli-9cc80b.netlify.app/
 
-## Available Scripts
+## Screensot
+![Screenshot 2022-07-24 at 12 33 10 PM](https://user-images.githubusercontent.com/99678086/180636352-c45a1218-0ade-4f6f-8ea0-6c28e10abd8e.png)
+![Screenshot 2022-07-24 at 12 33 29 PM](https://user-images.githubusercontent.com/99678086/180636359-8175d24c-976e-448b-8c4f-2ffe3b59a25d.png)![Screenshot 2022-07-24 at 12 34 11 PM](https://user-images.githubusercontent.com/99678086/180636369-7b9ae9da-970b-4e78-94e5-596427bec190.png)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-###netmeds
+![Screenshot 2022-07-24 at 12 35 09 PM](https://user-images.githubusercontent.com/99678086/180636390-bd6352e4-8f86-4a98-a28e-975098fc1787.png)
+![Screenshot 2022-07-24 at 12 35 28 PM](https://user-images.githubusercontent.com/99678086/180636402-3fac834c-7dbe-43e3-beda-7a9248f674f0.png)
+![Screenshot 2022-07-24 at 12 35 44 PM](https://user-images.githubusercontent.com/99678086/180636410-cc158e9d-0b36-41fa-9d41-d442cbcda69c.png)
+![Screenshot 2022-07-24 at 12 35 59 PM](https://user-images.githubusercontent.com/99678086/180636415-7b8906f5-c234-4561-8bdf-aab276d7742d.png)
